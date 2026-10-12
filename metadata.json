@@ -1,0 +1,6 @@
+{
+  "name": "Vegetable Run",
+  "description": "An endless runner 3D game featuring cute Indian vegetables in kurta-pajama dodging obstacles across vibrant desi villages, farms, and markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
